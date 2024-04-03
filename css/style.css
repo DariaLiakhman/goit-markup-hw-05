@@ -747,10 +747,9 @@ address {
 }
 
 .user-privacy-check {
-  display: inline-flex;
 }
 .check-text span {
-  /* display: inline-flex; */
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   height: 16px;
